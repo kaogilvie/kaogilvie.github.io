@@ -227,6 +227,15 @@ date,state,deaths,cases
 2020-10-24,Alabama,7,2360
 2020-10-25,Alabama,0,1079
 2020-10-26,Alabama,0,967
+2020-10-27,Alabama,26,1115
+2020-10-28,Alabama,19,1269
+2020-10-29,Alabama,3,1443
+2020-10-30,Alabama,18,1347
+2020-10-31,Alabama,35,1789
+2020-11-01,Alabama,6,1700
+2020-11-02,Alabama,0,907
+2020-11-03,Alabama,14,1037
+2020-11-04,Alabama,19,1848
 2020-03-12,Alaska,0,1
 2020-03-13,Alaska,0,0
 2020-03-14,Alaska,0,0
@@ -456,6 +465,15 @@ date,state,deaths,cases
 2020-10-24,Alaska,0,372
 2020-10-25,Alaska,0,529
 2020-10-26,Alaska,0,348
+2020-10-27,Alaska,2,383
+2020-10-28,Alaska,1,354
+2020-10-29,Alaska,5,364
+2020-10-30,Alaska,4,386
+2020-10-31,Alaska,1,444
+2020-11-01,Alaska,1,350
+2020-11-02,Alaska,1,351
+2020-11-03,Alaska,0,391
+2020-11-04,Alaska,0,411
 2020-01-26,Arizona,0,1
 2020-01-27,Arizona,0,0
 2020-01-28,Arizona,0,0
@@ -731,6 +749,15 @@ date,state,deaths,cases
 2020-10-24,Arizona,5,988
 2020-10-25,Arizona,4,1302
 2020-10-26,Arizona,1,993
+2020-10-27,Arizona,16,965
+2020-10-28,Arizona,15,1101
+2020-10-29,Arizona,14,1251
+2020-10-30,Arizona,14,1589
+2020-10-31,Arizona,45,1863
+2020-11-01,Arizona,2,1522
+2020-11-02,Arizona,1,809
+2020-11-03,Arizona,40,1548
+2020-11-04,Arizona,37,1012
 2020-03-11,Arkansas,0,1
 2020-03-12,Arkansas,0,5
 2020-03-13,Arkansas,0,1
@@ -961,6 +988,15 @@ date,state,deaths,cases
 2020-10-24,Arkansas,15,1183
 2020-10-25,Arkansas,15,797
 2020-10-26,Arkansas,21,612
+2020-10-27,Arkansas,24,952
+2020-10-28,Arkansas,18,961
+2020-10-29,Arkansas,19,1072
+2020-10-30,Arkansas,6,1162
+2020-10-31,Arkansas,25,1316
+2020-11-01,Arkansas,33,867
+2020-11-02,Arkansas,27,584
+2020-11-03,Arkansas,18,878
+2020-11-04,Arkansas,23,1293
 2020-01-25,California,0,1
 2020-01-26,California,0,1
 2020-01-27,California,0,0
@@ -1237,6 +1273,15 @@ date,state,deaths,cases
 2020-10-24,California,29,4319
 2020-10-25,California,13,2700
 2020-10-26,California,40,4355
+2020-10-27,California,80,4928
+2020-10-28,California,63,4053
+2020-10-29,California,26,4213
+2020-10-30,California,60,4933
+2020-10-31,California,34,3422
+2020-11-01,California,10,3635
+2020-11-02,California,29,5258
+2020-11-03,California,51,5242
+2020-11-04,California,67,5241
 2020-03-05,Colorado,0,2
 2020-03-06,Colorado,0,6
 2020-03-07,Colorado,0,0
@@ -1473,6 +1518,15 @@ date,state,deaths,cases
 2020-10-24,Colorado,8,1922
 2020-10-25,Colorado,3,1753
 2020-10-26,Colorado,11,1944
+2020-10-27,Colorado,10,1425
+2020-10-28,Colorado,12,1503
+2020-10-29,Colorado,18,2051
+2020-10-30,Colorado,7,2262
+2020-10-31,Colorado,7,2917
+2020-11-01,Colorado,3,2796
+2020-11-02,Colorado,8,2181
+2020-11-03,Colorado,17,2543
+2020-11-04,Colorado,29,2992
 2020-03-08,Connecticut,0,1
 2020-03-09,Connecticut,0,1
 2020-03-10,Connecticut,0,0
@@ -1706,6 +1760,15 @@ date,state,deaths,cases
 2020-10-24,Connecticut,0,0
 2020-10-25,Connecticut,0,0
 2020-10-26,Connecticut,12,2047
+2020-10-27,Connecticut,6,538
+2020-10-28,Connecticut,9,490
+2020-10-29,Connecticut,5,1319
+2020-10-30,Connecticut,7,761
+2020-10-31,Connecticut,0,0
+2020-11-01,Connecticut,0,0
+2020-11-02,Connecticut,11,2651
+2020-11-03,Connecticut,8,985
+2020-11-04,Connecticut,10,530
 2020-03-11,Delaware,0,1
 2020-03-12,Delaware,0,3
 2020-03-13,Delaware,0,0
@@ -1936,6 +1999,15 @@ date,state,deaths,cases
 2020-10-24,Delaware,2,160
 2020-10-25,Delaware,1,114
 2020-10-26,Delaware,4,207
+2020-10-27,Delaware,1,81
+2020-10-28,Delaware,2,143
+2020-10-29,Delaware,1,161
+2020-10-30,Delaware,15,198
+2020-10-31,Delaware,4,200
+2020-11-01,Delaware,2,175
+2020-11-02,Delaware,0,185
+2020-11-03,Delaware,2,115
+2020-11-04,Delaware,0,108
 2020-03-07,District of Columbia,0,1
 2020-03-08,District of Columbia,0,0
 2020-03-09,District of Columbia,0,3
@@ -2170,6 +2242,15 @@ date,state,deaths,cases
 2020-10-24,District of Columbia,0,97
 2020-10-25,District of Columbia,0,61
 2020-10-26,District of Columbia,0,45
+2020-10-27,District of Columbia,2,94
+2020-10-28,District of Columbia,0,67
+2020-10-29,District of Columbia,1,101
+2020-10-30,District of Columbia,1,70
+2020-10-31,District of Columbia,0,122
+2020-11-01,District of Columbia,0,103
+2020-11-02,District of Columbia,1,69
+2020-11-03,District of Columbia,0,86
+2020-11-04,District of Columbia,0,77
 2020-03-01,Florida,0,2
 2020-03-02,Florida,0,0
 2020-03-03,Florida,0,1
@@ -2410,6 +2491,15 @@ date,state,deaths,cases
 2020-10-24,Florida,77,4471
 2020-10-25,Florida,12,2385
 2020-10-26,Florida,20,3377
+2020-10-27,Florida,56,4298
+2020-10-28,Florida,66,4115
+2020-10-29,Florida,77,4198
+2020-10-30,Florida,72,5592
+2020-10-31,Florida,41,2331
+2020-11-01,Florida,28,4865
+2020-11-02,Florida,45,4651
+2020-11-03,Florida,56,4637
+2020-11-04,Florida,32,4423
 2020-03-02,Georgia,0,2
 2020-03-03,Georgia,0,0
 2020-03-04,Georgia,0,0
@@ -2649,6 +2739,15 @@ date,state,deaths,cases
 2020-10-24,Georgia,41,1682
 2020-10-25,Georgia,1,1343
 2020-10-26,Georgia,18,3931
+2020-10-27,Georgia,17,1223
+2020-10-28,Georgia,31,1628
+2020-10-29,Georgia,45,1714
+2020-10-30,Georgia,31,1317
+2020-10-31,Georgia,22,2474
+2020-11-01,Georgia,2,1069
+2020-11-02,Georgia,18,3561
+2020-11-03,Georgia,27,1633
+2020-11-04,Georgia,466,3219
 2020-03-15,Guam,0,3
 2020-03-16,Guam,0,0
 2020-03-17,Guam,0,0
@@ -2875,6 +2974,15 @@ date,state,deaths,cases
 2020-10-24,Guam,0,0
 2020-10-25,Guam,0,0
 2020-10-26,Guam,0,0
+2020-10-27,Guam,6,277
+2020-10-28,Guam,1,48
+2020-10-29,Guam,2,83
+2020-10-30,Guam,1,79
+2020-10-31,Guam,0,53
+2020-11-01,Guam,0,9
+2020-11-02,Guam,0,3
+2020-11-03,Guam,1,119
+2020-11-04,Guam,3,91
 2020-03-06,Hawaii,0,1
 2020-03-07,Hawaii,0,0
 2020-03-08,Hawaii,0,1
@@ -3110,6 +3218,15 @@ date,state,deaths,cases
 2020-10-24,Hawaii,3,89
 2020-10-25,Hawaii,0,117
 2020-10-26,Hawaii,0,35
+2020-10-27,Hawaii,3,62
+2020-10-28,Hawaii,-2,55
+2020-10-29,Hawaii,2,71
+2020-10-30,Hawaii,1,99
+2020-10-31,Hawaii,3,62
+2020-11-01,Hawaii,0,80
+2020-11-02,Hawaii,0,72
+2020-11-03,Hawaii,0,82
+2020-11-04,Hawaii,0,150
 2020-03-13,Idaho,0,1
 2020-03-14,Idaho,0,4
 2020-03-15,Idaho,0,0
@@ -3338,6 +3455,15 @@ date,state,deaths,cases
 2020-10-24,Idaho,5,881
 2020-10-25,Idaho,1,380
 2020-10-26,Idaho,8,1056
+2020-10-27,Idaho,6,882
+2020-10-28,Idaho,12,915
+2020-10-29,Idaho,18,998
+2020-10-30,Idaho,9,980
+2020-10-31,Idaho,3,622
+2020-11-01,Idaho,1,475
+2020-11-02,Idaho,10,977
+2020-11-03,Idaho,8,1255
+2020-11-04,Idaho,16,1287
 2020-01-24,Illinois,0,1
 2020-01-25,Illinois,0,0
 2020-01-26,Illinois,0,0
@@ -3615,6 +3741,15 @@ date,state,deaths,cases
 2020-10-24,Illinois,61,5900
 2020-10-25,Illinois,23,4031
 2020-10-26,Illinois,23,5019
+2020-10-27,Illinois,49,4004
+2020-10-28,Illinois,52,6116
+2020-10-29,Illinois,51,6418
+2020-10-30,Illinois,49,8519
+2020-10-31,Illinois,18,6416
+2020-11-01,Illinois,61,8303
+2020-11-02,Illinois,24,6421
+2020-11-03,Illinois,62,6598
+2020-11-04,Illinois,62,7658
 2020-03-06,Indiana,0,1
 2020-03-07,Indiana,0,0
 2020-03-08,Indiana,0,1
@@ -3850,6 +3985,15 @@ date,state,deaths,cases
 2020-10-24,Indiana,26,2741
 2020-10-25,Indiana,12,2152
 2020-10-26,Indiana,13,1972
+2020-10-27,Indiana,51,1986
+2020-10-28,Indiana,33,2570
+2020-10-29,Indiana,33,3624
+2020-10-30,Indiana,26,3182
+2020-10-31,Indiana,46,3465
+2020-11-01,Indiana,32,2752
+2020-11-02,Indiana,26,3076
+2020-11-03,Indiana,49,2890
+2020-11-04,Indiana,25,3706
 2020-03-08,Iowa,0,3
 2020-03-09,Iowa,0,5
 2020-03-10,Iowa,0,5
@@ -4083,6 +4227,15 @@ date,state,deaths,cases
 2020-10-24,Iowa,5,1356
 2020-10-25,Iowa,1,1286
 2020-10-26,Iowa,22,960
+2020-10-27,Iowa,23,1654
+2020-10-28,Iowa,11,2059
+2020-10-29,Iowa,14,2321
+2020-10-30,Iowa,9,2741
+2020-10-31,Iowa,2,2825
+2020-11-01,Iowa,17,2299
+2020-11-02,Iowa,22,1600
+2020-11-03,Iowa,25,1879
+2020-11-04,Iowa,21,2739
 2020-03-07,Kansas,0,1
 2020-03-08,Kansas,0,0
 2020-03-09,Kansas,0,0
@@ -4317,6 +4470,15 @@ date,state,deaths,cases
 2020-10-24,Kansas,0,55
 2020-10-25,Kansas,0,64
 2020-10-26,Kansas,1,2232
+2020-10-27,Kansas,3,288
+2020-10-28,Kansas,28,2724
+2020-10-29,Kansas,1,353
+2020-10-30,Kansas,21,2930
+2020-10-31,Kansas,0,3
+2020-11-01,Kansas,0,38
+2020-11-02,Kansas,17,3804
+2020-11-03,Kansas,5,459
+2020-11-04,Kansas,36,2895
 2020-03-06,Kentucky,0,1
 2020-03-07,Kentucky,0,0
 2020-03-08,Kentucky,0,3
@@ -4552,6 +4714,15 @@ date,state,deaths,cases
 2020-10-24,Kentucky,7,1458
 2020-10-25,Kentucky,3,1229
 2020-10-26,Kentucky,8,1235
+2020-10-27,Kentucky,13,1735
+2020-10-28,Kentucky,16,1985
+2020-10-29,Kentucky,15,1832
+2020-10-30,Kentucky,19,2103
+2020-10-31,Kentucky,8,1624
+2020-11-01,Kentucky,3,1356
+2020-11-02,Kentucky,11,1216
+2020-11-03,Kentucky,13,1641
+2020-11-04,Kentucky,15,1969
 2020-03-09,Louisiana,0,1
 2020-03-10,Louisiana,0,5
 2020-03-11,Louisiana,0,7
@@ -4784,6 +4955,15 @@ date,state,deaths,cases
 2020-10-24,Louisiana,0,0
 2020-10-25,Louisiana,17,972
 2020-10-26,Louisiana,17,227
+2020-10-27,Louisiana,18,922
+2020-10-28,Louisiana,18,1098
+2020-10-29,Louisiana,18,394
+2020-10-30,Louisiana,11,433
+2020-10-31,Louisiana,0,0
+2020-11-01,Louisiana,7,1071
+2020-11-02,Louisiana,8,275
+2020-11-03,Louisiana,17,1153
+2020-11-04,Louisiana,24,1016
 2020-03-12,Maine,0,1
 2020-03-13,Maine,0,1
 2020-03-14,Maine,0,1
@@ -5013,6 +5193,15 @@ date,state,deaths,cases
 2020-10-24,Maine,0,42
 2020-10-25,Maine,0,64
 2020-10-26,Maine,0,53
+2020-10-27,Maine,0,57
+2020-10-28,Maine,0,76
+2020-10-29,Maine,0,80
+2020-10-30,Maine,0,103
+2020-10-31,Maine,1,98
+2020-11-01,Maine,0,47
+2020-11-02,Maine,1,84
+2020-11-03,Maine,0,127
+2020-11-04,Maine,2,151
 2020-03-05,Maryland,0,3
 2020-03-06,Maryland,0,0
 2020-03-07,Maryland,0,0
@@ -5249,6 +5438,15 @@ date,state,deaths,cases
 2020-10-24,Maryland,13,674
 2020-10-25,Maryland,5,911
 2020-10-26,Maryland,3,564
+2020-10-27,Maryland,9,903
+2020-10-28,Maryland,7,681
+2020-10-29,Maryland,12,957
+2020-10-30,Maryland,10,925
+2020-10-31,Maryland,10,793
+2020-11-01,Maryland,5,1034
+2020-11-02,Maryland,3,850
+2020-11-03,Maryland,7,772
+2020-11-04,Maryland,10,983
 2020-02-01,Massachusetts,0,1
 2020-02-02,Massachusetts,0,0
 2020-02-03,Massachusetts,0,0
@@ -5518,6 +5716,15 @@ date,state,deaths,cases
 2020-10-24,Massachusetts,9,1203
 2020-10-25,Massachusetts,25,1077
 2020-10-26,Massachusetts,17,1212
+2020-10-27,Massachusetts,7,1260
+2020-10-28,Massachusetts,36,1181
+2020-10-29,Massachusetts,27,1346
+2020-10-30,Massachusetts,24,1582
+2020-10-31,Massachusetts,16,1430
+2020-11-01,Massachusetts,22,1131
+2020-11-02,Massachusetts,10,842
+2020-11-03,Massachusetts,12,1036
+2020-11-04,Massachusetts,27,1714
 2020-03-10,Michigan,0,2
 2020-03-11,Michigan,0,0
 2020-03-12,Michigan,0,10
@@ -5749,6 +5956,15 @@ date,state,deaths,cases
 2020-10-24,Michigan,37,3257
 2020-10-25,Michigan,0,130
 2020-10-26,Michigan,29,4109
+2020-10-27,Michigan,34,2660
+2020-10-28,Michigan,21,3534
+2020-10-29,Michigan,45,4108
+2020-10-30,Michigan,13,3434
+2020-10-31,Michigan,35,3804
+2020-11-01,Michigan,1,337
+2020-11-02,Michigan,16,6634
+2020-11-03,Michigan,42,3664
+2020-11-04,Michigan,25,4327
 2020-03-06,Minnesota,0,1
 2020-03-07,Minnesota,0,0
 2020-03-08,Minnesota,0,1
@@ -5984,6 +6200,15 @@ date,state,deaths,cases
 2020-10-24,Minnesota,14,2259
 2020-10-25,Minnesota,21,1680
 2020-10-26,Minnesota,4,1570
+2020-10-27,Minnesota,15,2164
+2020-10-28,Minnesota,19,1908
+2020-10-29,Minnesota,32,2867
+2020-10-30,Minnesota,19,3155
+2020-10-31,Minnesota,20,3007
+2020-11-01,Minnesota,18,2200
+2020-11-02,Minnesota,9,2948
+2020-11-03,Minnesota,15,3476
+2020-11-04,Minnesota,31,3827
 2020-03-11,Mississippi,0,1
 2020-03-12,Mississippi,0,0
 2020-03-13,Mississippi,0,5
@@ -6214,6 +6439,15 @@ date,state,deaths,cases
 2020-10-24,Mississippi,17,1212
 2020-10-25,Mississippi,0,0
 2020-10-26,Mississippi,8,675
+2020-10-27,Mississippi,20,854
+2020-10-28,Mississippi,19,1000
+2020-10-29,Mississippi,8,970
+2020-10-30,Mississippi,18,749
+2020-10-31,Mississippi,6,824
+2020-11-01,Mississippi,14,340
+2020-11-02,Mississippi,0,365
+2020-11-03,Mississippi,36,644
+2020-11-04,Mississippi,13,766
 2020-03-07,Missouri,0,1
 2020-03-08,Missouri,0,0
 2020-03-09,Missouri,0,0
@@ -6448,6 +6682,15 @@ date,state,deaths,cases
 2020-10-24,Missouri,90,1875
 2020-10-25,Missouri,3,1497
 2020-10-26,Missouri,12,2490
+2020-10-27,Missouri,43,1724
+2020-10-28,Missouri,28,2420
+2020-10-29,Missouri,38,2966
+2020-10-30,Missouri,36,2965
+2020-10-31,Missouri,76,2095
+2020-11-01,Missouri,1,2216
+2020-11-02,Missouri,10,3770
+2020-11-03,Missouri,35,2367
+2020-11-04,Missouri,30,3188
 2020-03-13,Montana,0,4
 2020-03-14,Montana,0,2
 2020-03-15,Montana,0,0
@@ -6676,6 +6919,15 @@ date,state,deaths,cases
 2020-10-24,Montana,12,549
 2020-10-25,Montana,3,731
 2020-10-26,Montana,6,700
+2020-10-27,Montana,5,842
+2020-10-28,Montana,17,629
+2020-10-29,Montana,13,881
+2020-10-30,Montana,29,1063
+2020-10-31,Montana,9,806
+2020-11-01,Montana,1,694
+2020-11-02,Montana,9,822
+2020-11-03,Montana,13,905
+2020-11-04,Montana,4,790
 2020-02-17,Nebraska,0,10
 2020-02-18,Nebraska,0,0
 2020-02-19,Nebraska,0,0
@@ -6929,6 +7181,15 @@ date,state,deaths,cases
 2020-10-24,Nebraska,9,704
 2020-10-25,Nebraska,1,582
 2020-10-26,Nebraska,5,709
+2020-10-27,Nebraska,14,870
+2020-10-28,Nebraska,6,1169
+2020-10-29,Nebraska,12,1605
+2020-10-30,Nebraska,5,1495
+2020-10-31,Nebraska,6,1087
+2020-11-01,Nebraska,6,934
+2020-11-02,Nebraska,1,965
+2020-11-03,Nebraska,3,1429
+2020-11-04,Nebraska,11,1828
 2020-03-05,Nevada,0,2
 2020-03-06,Nevada,0,0
 2020-03-07,Nevada,0,0
@@ -7165,6 +7426,15 @@ date,state,deaths,cases
 2020-10-24,Nevada,7,891
 2020-10-25,Nevada,2,863
 2020-10-26,Nevada,3,532
+2020-10-27,Nevada,6,808
+2020-10-28,Nevada,10,686
+2020-10-29,Nevada,3,990
+2020-10-30,Nevada,7,1224
+2020-10-31,Nevada,2,806
+2020-11-01,Nevada,4,750
+2020-11-02,Nevada,2,649
+2020-11-03,Nevada,22,1062
+2020-11-04,Nevada,9,1209
 2020-03-02,New Hampshire,0,1
 2020-03-03,New Hampshire,0,1
 2020-03-04,New Hampshire,0,0
@@ -7404,6 +7674,15 @@ date,state,deaths,cases
 2020-10-24,New Hampshire,2,126
 2020-10-25,New Hampshire,0,90
 2020-10-26,New Hampshire,2,69
+2020-10-27,New Hampshire,0,133
+2020-10-28,New Hampshire,3,111
+2020-10-29,New Hampshire,4,127
+2020-10-30,New Hampshire,0,116
+2020-10-31,New Hampshire,1,200
+2020-11-01,New Hampshire,0,130
+2020-11-02,New Hampshire,0,106
+2020-11-03,New Hampshire,0,128
+2020-11-04,New Hampshire,1,115
 2020-03-04,New Jersey,0,1
 2020-03-05,New Jersey,0,1
 2020-03-06,New Jersey,0,2
@@ -7641,6 +7920,15 @@ date,state,deaths,cases
 2020-10-24,New Jersey,8,1909
 2020-10-25,New Jersey,4,1129
 2020-10-26,New Jersey,7,1216
+2020-10-27,New Jersey,14,1647
+2020-10-28,New Jersey,18,1670
+2020-10-29,New Jersey,8,1550
+2020-10-30,New Jersey,7,1976
+2020-10-31,New Jersey,11,1363
+2020-11-01,New Jersey,4,1743
+2020-11-02,New Jersey,3,1368
+2020-11-03,New Jersey,14,1824
+2020-11-04,New Jersey,20,2443
 2020-03-11,New Mexico,0,4
 2020-03-12,New Mexico,0,2
 2020-03-13,New Mexico,0,4
@@ -7871,6 +8159,15 @@ date,state,deaths,cases
 2020-10-24,New Mexico,5,872
 2020-10-25,New Mexico,2,823
 2020-10-26,New Mexico,9,723
+2020-10-27,New Mexico,4,583
+2020-10-28,New Mexico,11,657
+2020-10-29,New Mexico,3,1078
+2020-10-30,New Mexico,13,1005
+2020-10-31,New Mexico,11,581
+2020-11-01,New Mexico,8,742
+2020-11-02,New Mexico,10,872
+2020-11-03,New Mexico,9,1136
+2020-11-04,New Mexico,14,1011
 2020-03-01,New York,0,1
 2020-03-02,New York,0,0
 2020-03-03,New York,0,1
@@ -8111,6 +8408,15 @@ date,state,deaths,cases
 2020-10-24,New York,11,2058
 2020-10-25,New York,10,1633
 2020-10-26,New York,14,1192
+2020-10-27,New York,19,1994
+2020-10-28,New York,15,2029
+2020-10-29,New York,21,2497
+2020-10-30,New York,15,2258
+2020-10-31,New York,9,2052
+2020-11-01,New York,22,2259
+2020-11-02,New York,13,1632
+2020-11-03,New York,11,2317
+2020-11-04,New York,24,2126
 2020-03-03,North Carolina,0,1
 2020-03-04,North Carolina,0,0
 2020-03-05,North Carolina,0,0
@@ -8349,6 +8655,15 @@ date,state,deaths,cases
 2020-10-24,North Carolina,30,2905
 2020-10-25,North Carolina,13,1689
 2020-10-26,North Carolina,17,2031
+2020-10-27,North Carolina,36,2175
+2020-10-28,North Carolina,39,2232
+2020-10-29,North Carolina,32,2853
+2020-10-30,North Carolina,47,2812
+2020-10-31,North Carolina,46,2574
+2020-11-01,North Carolina,5,1901
+2020-11-02,North Carolina,8,1771
+2020-11-03,North Carolina,68,2180
+2020-11-04,North Carolina,54,2623
 2020-03-11,North Dakota,0,1
 2020-03-12,North Dakota,0,0
 2020-03-13,North Dakota,0,0
@@ -8579,6 +8894,15 @@ date,state,deaths,cases
 2020-10-24,North Dakota,8,935
 2020-10-25,North Dakota,8,845
 2020-10-26,North Dakota,5,522
+2020-10-27,North Dakota,15,889
+2020-10-28,North Dakota,12,777
+2020-10-29,North Dakota,11,1223
+2020-10-30,North Dakota,13,1353
+2020-10-31,North Dakota,12,1433
+2020-11-01,North Dakota,7,1127
+2020-11-02,North Dakota,9,972
+2020-11-03,North Dakota,16,1172
+2020-11-04,North Dakota,12,1114
 2020-03-28,Northern Mariana Islands,0,2
 2020-03-29,Northern Mariana Islands,0,0
 2020-03-30,Northern Mariana Islands,0,0
@@ -8792,6 +9116,15 @@ date,state,deaths,cases
 2020-10-24,Northern Mariana Islands,0,0
 2020-10-25,Northern Mariana Islands,0,0
 2020-10-26,Northern Mariana Islands,0,4
+2020-10-27,Northern Mariana Islands,0,0
+2020-10-28,Northern Mariana Islands,0,0
+2020-10-29,Northern Mariana Islands,0,0
+2020-10-30,Northern Mariana Islands,0,0
+2020-10-31,Northern Mariana Islands,0,0
+2020-11-01,Northern Mariana Islands,0,4
+2020-11-02,Northern Mariana Islands,0,0
+2020-11-03,Northern Mariana Islands,0,0
+2020-11-04,Northern Mariana Islands,0,0
 2020-03-09,Ohio,0,3
 2020-03-10,Ohio,0,0
 2020-03-11,Ohio,0,1
@@ -9024,6 +9357,15 @@ date,state,deaths,cases
 2020-10-24,Ohio,22,2858
 2020-10-25,Ohio,0,2309
 2020-10-26,Ohio,11,2116
+2020-10-27,Ohio,22,2509
+2020-10-28,Ohio,17,2607
+2020-10-29,Ohio,19,3590
+2020-10-30,Ohio,16,3845
+2020-10-31,Ohio,10,2915
+2020-11-01,Ohio,2,3303
+2020-11-02,Ohio,37,2909
+2020-11-03,Ohio,33,4229
+2020-11-04,Ohio,55,4071
 2020-03-06,Oklahoma,0,1
 2020-03-07,Oklahoma,0,0
 2020-03-08,Oklahoma,0,0
@@ -9259,6 +9601,15 @@ date,state,deaths,cases
 2020-10-24,Oklahoma,11,1829
 2020-10-25,Oklahoma,4,1051
 2020-10-26,Oklahoma,2,663
+2020-10-27,Oklahoma,22,1010
+2020-10-28,Oklahoma,13,743
+2020-10-29,Oklahoma,20,1041
+2020-10-30,Oklahoma,20,1302
+2020-10-31,Oklahoma,11,1267
+2020-11-01,Oklahoma,8,1349
+2020-11-02,Oklahoma,9,1084
+2020-11-03,Oklahoma,21,1331
+2020-11-04,Oklahoma,17,1246
 2020-02-28,Oregon,0,1
 2020-02-29,Oregon,0,0
 2020-03-01,Oregon,0,1
@@ -9501,6 +9852,15 @@ date,state,deaths,cases
 2020-10-24,Oregon,3,382
 2020-10-25,Oregon,0,362
 2020-10-26,Oregon,3,353
+2020-10-27,Oregon,8,367
+2020-10-28,Oregon,8,407
+2020-10-29,Oregon,1,565
+2020-10-30,Oregon,3,595
+2020-10-31,Oregon,13,535
+2020-11-01,Oregon,1,496
+2020-11-02,Oregon,3,559
+2020-11-03,Oregon,7,482
+2020-11-04,Oregon,6,589
 2020-03-06,Pennsylvania,0,2
 2020-03-07,Pennsylvania,0,2
 2020-03-08,Pennsylvania,0,2
@@ -9736,6 +10096,15 @@ date,state,deaths,cases
 2020-10-24,Pennsylvania,26,1711
 2020-10-25,Pennsylvania,9,1386
 2020-10-26,Pennsylvania,7,2492
+2020-10-27,Pennsylvania,23,2272
+2020-10-28,Pennsylvania,29,2332
+2020-10-29,Pennsylvania,39,2235
+2020-10-30,Pennsylvania,32,2499
+2020-10-31,Pennsylvania,23,2230
+2020-11-01,Pennsylvania,5,1684
+2020-11-02,Pennsylvania,5,2743
+2020-11-03,Pennsylvania,33,2868
+2020-11-04,Pennsylvania,41,2772
 2020-03-13,Puerto Rico,0,3
 2020-03-14,Puerto Rico,0,1
 2020-03-15,Puerto Rico,0,1
@@ -9964,6 +10333,15 @@ date,state,deaths,cases
 2020-10-24,Puerto Rico,3,296
 2020-10-25,Puerto Rico,7,1223
 2020-10-26,Puerto Rico,3,632
+2020-10-27,Puerto Rico,4,362
+2020-10-28,Puerto Rico,5,90
+2020-10-29,Puerto Rico,1,1211
+2020-10-30,Puerto Rico,6,945
+2020-10-31,Puerto Rico,2,385
+2020-11-01,Puerto Rico,10,533
+2020-11-02,Puerto Rico,7,1511
+2020-11-03,Puerto Rico,3,771
+2020-11-04,Puerto Rico,8,77
 2020-03-01,Rhode Island,0,2
 2020-03-02,Rhode Island,0,0
 2020-03-03,Rhode Island,0,0
@@ -10204,6 +10582,15 @@ date,state,deaths,cases
 2020-10-24,Rhode Island,0,0
 2020-10-25,Rhode Island,0,0
 2020-10-26,Rhode Island,7,906
+2020-10-27,Rhode Island,4,421
+2020-10-28,Rhode Island,4,499
+2020-10-29,Rhode Island,3,368
+2020-10-30,Rhode Island,6,562
+2020-10-31,Rhode Island,0,0
+2020-11-01,Rhode Island,0,0
+2020-11-02,Rhode Island,9,1246
+2020-11-03,Rhode Island,2,423
+2020-11-04,Rhode Island,2,579
 2020-03-06,South Carolina,0,2
 2020-03-07,South Carolina,0,0
 2020-03-08,South Carolina,0,4
@@ -10439,6 +10826,15 @@ date,state,deaths,cases
 2020-10-24,South Carolina,16,792
 2020-10-25,South Carolina,9,1337
 2020-10-26,South Carolina,21,823
+2020-10-27,South Carolina,19,1078
+2020-10-28,South Carolina,34,912
+2020-10-29,South Carolina,13,1100
+2020-10-30,South Carolina,7,1003
+2020-10-31,South Carolina,39,1018
+2020-11-01,South Carolina,1,1411
+2020-11-02,South Carolina,10,894
+2020-11-03,South Carolina,22,1035
+2020-11-04,South Carolina,17,918
 2020-03-10,South Dakota,1,5
 2020-03-11,South Dakota,0,3
 2020-03-12,South Dakota,0,0
@@ -10670,6 +11066,15 @@ date,state,deaths,cases
 2020-10-24,South Dakota,10,939
 2020-10-25,South Dakota,9,1062
 2020-10-26,South Dakota,0,538
+2020-10-27,South Dakota,0,989
+2020-10-28,South Dakota,9,1270
+2020-10-29,South Dakota,19,1000
+2020-10-30,South Dakota,12,1559
+2020-10-31,South Dakota,10,1433
+2020-11-01,South Dakota,12,1332
+2020-11-02,South Dakota,1,526
+2020-11-03,South Dakota,8,1004
+2020-11-04,South Dakota,14,937
 2020-03-05,Tennessee,0,1
 2020-03-06,Tennessee,0,0
 2020-03-07,Tennessee,0,0
@@ -10906,6 +11311,15 @@ date,state,deaths,cases
 2020-10-24,Tennessee,24,2584
 2020-10-25,Tennessee,38,3317
 2020-10-26,Tennessee,27,2252
+2020-10-27,Tennessee,44,1928
+2020-10-28,Tennessee,33,2581
+2020-10-29,Tennessee,20,2458
+2020-10-30,Tennessee,78,2605
+2020-10-31,Tennessee,15,1591
+2020-11-01,Tennessee,0,735
+2020-11-02,Tennessee,25,2617
+2020-11-03,Tennessee,72,1778
+2020-11-04,Tennessee,27,3354
 2020-02-12,Texas,0,1
 2020-02-13,Texas,0,1
 2020-02-14,Texas,0,0
@@ -11164,6 +11578,15 @@ date,state,deaths,cases
 2020-10-24,Texas,125,7325
 2020-10-25,Texas,44,3935
 2020-10-26,Texas,35,6594
+2020-10-27,Texas,78,7266
+2020-10-28,Texas,96,7748
+2020-10-29,Texas,121,7048
+2020-10-30,Texas,105,6656
+2020-10-31,Texas,72,7478
+2020-11-01,Texas,33,4350
+2020-11-02,Texas,44,7921
+2020-11-03,Texas,96,8488
+2020-11-04,Texas,148,10631
 2020-02-25,Utah,0,1
 2020-02-26,Utah,0,0
 2020-02-27,Utah,0,0
@@ -11409,6 +11832,15 @@ date,state,deaths,cases
 2020-10-24,Utah,1,1543
 2020-10-25,Utah,4,1936
 2020-10-26,Utah,3,1030
+2020-10-27,Utah,4,1163
+2020-10-28,Utah,9,1617
+2020-10-29,Utah,10,1803
+2020-10-30,Utah,3,2266
+2020-10-31,Utah,3,1738
+2020-11-01,Utah,10,1840
+2020-11-02,Utah,0,1196
+2020-11-03,Utah,6,1669
+2020-11-04,Utah,5,2188
 2020-03-07,Vermont,0,1
 2020-03-08,Vermont,0,0
 2020-03-09,Vermont,0,0
@@ -11643,6 +12075,15 @@ date,state,deaths,cases
 2020-10-24,Vermont,0,27
 2020-10-25,Vermont,0,30
 2020-10-26,Vermont,0,10
+2020-10-27,Vermont,0,30
+2020-10-28,Vermont,0,7
+2020-10-29,Vermont,0,21
+2020-10-30,Vermont,0,14
+2020-10-31,Vermont,0,24
+2020-11-01,Vermont,0,17
+2020-11-02,Vermont,0,23
+2020-11-03,Vermont,0,18
+2020-11-04,Vermont,0,30
 2020-03-07,Virginia,0,1
 2020-03-08,Virginia,0,1
 2020-03-09,Virginia,0,3
@@ -11877,6 +12318,15 @@ date,state,deaths,cases
 2020-10-24,Virginia,39,1088
 2020-10-25,Virginia,1,999
 2020-10-26,Virginia,2,904
+2020-10-27,Virginia,19,1134
+2020-10-28,Virginia,16,1345
+2020-10-29,Virginia,20,1429
+2020-10-30,Virginia,7,1456
+2020-10-31,Virginia,11,1551
+2020-11-01,Virginia,1,1202
+2020-11-02,Virginia,3,1026
+2020-11-03,Virginia,8,1261
+2020-11-04,Virginia,11,1157
 2020-03-14,Virgin Islands,0,1
 2020-03-15,Virgin Islands,0,0
 2020-03-16,Virgin Islands,0,1
@@ -12104,6 +12554,15 @@ date,state,deaths,cases
 2020-10-24,Virgin Islands,0,0
 2020-10-25,Virgin Islands,0,0
 2020-10-26,Virgin Islands,0,2
+2020-10-27,Virgin Islands,0,3
+2020-10-28,Virgin Islands,0,2
+2020-10-29,Virgin Islands,0,0
+2020-10-30,Virgin Islands,0,9
+2020-10-31,Virgin Islands,0,14
+2020-11-01,Virgin Islands,0,0
+2020-11-02,Virgin Islands,0,0
+2020-11-03,Virgin Islands,1,9
+2020-11-04,Virgin Islands,1,3
 2020-01-21,Washington,0,1
 2020-01-22,Washington,0,0
 2020-01-23,Washington,0,0
@@ -12384,6 +12843,15 @@ date,state,deaths,cases
 2020-10-24,Washington,0,583
 2020-10-25,Washington,0,498
 2020-10-26,Washington,32,1123
+2020-10-27,Washington,10,573
+2020-10-28,Washington,16,899
+2020-10-29,Washington,9,883
+2020-10-30,Washington,5,1145
+2020-10-31,Washington,0,687
+2020-11-01,Washington,0,529
+2020-11-02,Washington,16,1678
+2020-11-03,Washington,23,821
+2020-11-04,Washington,19,1483
 2020-03-17,West Virginia,0,1
 2020-03-18,West Virginia,0,1
 2020-03-19,West Virginia,0,3
@@ -12608,6 +13076,15 @@ date,state,deaths,cases
 2020-10-24,West Virginia,0,320
 2020-10-25,West Virginia,1,194
 2020-10-26,West Virginia,1,317
+2020-10-27,West Virginia,8,483
+2020-10-28,West Virginia,4,358
+2020-10-29,West Virginia,7,402
+2020-10-30,West Virginia,8,524
+2020-10-31,West Virginia,6,470
+2020-11-01,West Virginia,0,423
+2020-11-02,West Virginia,1,352
+2020-11-03,West Virginia,11,358
+2020-11-04,West Virginia,3,394
 2020-02-05,Wisconsin,0,1
 2020-02-06,Wisconsin,0,0
 2020-02-07,Wisconsin,0,0
@@ -12873,6 +13350,15 @@ date,state,deaths,cases
 2020-10-24,Wisconsin,28,4660
 2020-10-25,Wisconsin,10,3778
 2020-10-26,Wisconsin,11,3199
+2020-10-27,Wisconsin,71,5331
+2020-10-28,Wisconsin,57,4131
+2020-10-29,Wisconsin,55,5134
+2020-10-30,Wisconsin,26,5380
+2020-10-31,Wisconsin,58,5778
+2020-11-01,Wisconsin,18,3553
+2020-11-02,Wisconsin,7,3551
+2020-11-03,Wisconsin,62,6253
+2020-11-04,Wisconsin,58,6138
 2020-03-11,Wyoming,0,1
 2020-03-12,Wyoming,0,0
 2020-03-13,Wyoming,0,1
@@ -13103,6 +13589,15 @@ date,state,deaths,cases
 2020-10-24,Wyoming,0,260
 2020-10-25,Wyoming,0,236
 2020-10-26,Wyoming,9,436
+2020-10-27,Wyoming,0,329
+2020-10-28,Wyoming,0,340
+2020-10-29,Wyoming,10,361
+2020-10-30,Wyoming,0,521
+2020-10-31,Wyoming,0,270
+2020-11-01,Wyoming,0,425
+2020-11-02,Wyoming,0,444
+2020-11-03,Wyoming,6,452
+2020-11-04,Wyoming,12,425
 2020-01-21,Alabama,0,0
 2020-01-22,Alabama,0,0
 2020-01-23,Alabama,0,0
