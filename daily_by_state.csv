@@ -344,6 +344,7 @@ date,state,deaths,cases
 2021-02-18,Alabama,78,1198
 2021-02-19,Alabama,149,847
 2021-02-20,Alabama,17,774
+2021-02-21,Alabama,2,857
 2020-03-12,Alaska,0,1
 2020-03-13,Alaska,0,0
 2020-03-14,Alaska,0,0
@@ -690,6 +691,7 @@ date,state,deaths,cases
 2021-02-18,Alaska,0,209
 2021-02-19,Alaska,1,211
 2021-02-20,Alaska,0,0
+2021-02-21,Alaska,0,0
 2020-01-26,Arizona,0,1
 2020-01-27,Arizona,0,0
 2020-01-28,Arizona,0,0
@@ -1082,6 +1084,7 @@ date,state,deaths,cases
 2021-02-18,Arizona,210,1417
 2021-02-19,Arizona,145,1879
 2021-02-20,Arizona,41,2126
+2021-02-21,Arizona,25,1084
 2020-03-11,Arkansas,0,1
 2020-03-12,Arkansas,0,5
 2020-03-13,Arkansas,0,1
@@ -1429,6 +1432,7 @@ date,state,deaths,cases
 2021-02-18,Arkansas,10,253
 2021-02-19,Arkansas,13,268
 2021-02-20,Arkansas,12,517
+2021-02-21,Arkansas,9,284
 2020-01-25,California,0,1
 2020-01-26,California,0,1
 2020-01-27,California,0,0
@@ -1822,6 +1826,7 @@ date,state,deaths,cases
 2021-02-18,California,432,7849
 2021-02-19,California,460,7880
 2021-02-20,California,317,6067
+2021-02-21,California,229,4646
 2020-03-05,Colorado,0,2
 2020-03-06,Colorado,0,6
 2020-03-07,Colorado,0,0
@@ -2175,6 +2180,7 @@ date,state,deaths,cases
 2021-02-18,Colorado,21,1272
 2021-02-19,Colorado,14,1233
 2021-02-20,Colorado,4,913
+2021-02-21,Colorado,5,968
 2020-03-08,Connecticut,0,1
 2020-03-09,Connecticut,0,1
 2020-03-10,Connecticut,0,0
@@ -2525,6 +2531,7 @@ date,state,deaths,cases
 2021-02-18,Connecticut,20,547
 2021-02-19,Connecticut,27,1198
 2021-02-20,Connecticut,0,0
+2021-02-21,Connecticut,0,0
 2020-03-11,Delaware,0,1
 2020-03-12,Delaware,0,3
 2020-03-13,Delaware,0,0
@@ -2872,6 +2879,7 @@ date,state,deaths,cases
 2021-02-18,Delaware,10,271
 2021-02-19,Delaware,17,329
 2021-02-20,Delaware,23,350
+2021-02-21,Delaware,1,201
 2020-03-07,District of Columbia,0,1
 2020-03-08,District of Columbia,0,0
 2020-03-09,District of Columbia,0,3
@@ -3223,6 +3231,7 @@ date,state,deaths,cases
 2021-02-18,District of Columbia,7,121
 2021-02-19,District of Columbia,1,160
 2021-02-20,District of Columbia,1,92
+2021-02-21,District of Columbia,1,95
 2020-03-01,Florida,0,2
 2020-03-02,Florida,0,0
 2020-03-03,Florida,0,1
@@ -3580,6 +3589,7 @@ date,state,deaths,cases
 2021-02-18,Florida,163,5117
 2021-02-19,Florida,218,6683
 2021-02-20,Florida,121,7280
+2021-02-21,Florida,93,5065
 2020-03-02,Georgia,0,2
 2020-03-03,Georgia,0,0
 2020-03-04,Georgia,0,0
@@ -3936,6 +3946,7 @@ date,state,deaths,cases
 2021-02-18,Georgia,127,3414
 2021-02-19,Georgia,204,3591
 2021-02-20,Georgia,123,3274
+2021-02-21,Georgia,2,1699
 2020-03-15,Guam,0,3
 2020-03-16,Guam,0,0
 2020-03-17,Guam,0,0
@@ -4279,6 +4290,7 @@ date,state,deaths,cases
 2021-02-18,Guam,0,2
 2021-02-19,Guam,0,10
 2021-02-20,Guam,0,1
+2021-02-21,Guam,0,4
 2020-03-06,Hawaii,0,1
 2020-03-07,Hawaii,0,0
 2020-03-08,Hawaii,0,1
@@ -4631,6 +4643,7 @@ date,state,deaths,cases
 2021-02-18,Hawaii,1,60
 2021-02-19,Hawaii,2,56
 2021-02-20,Hawaii,0,49
+2021-02-21,Hawaii,1,64
 2020-03-13,Idaho,0,1
 2020-03-14,Idaho,0,4
 2020-03-15,Idaho,0,0
@@ -4976,6 +4989,7 @@ date,state,deaths,cases
 2021-02-18,Idaho,9,280
 2021-02-19,Idaho,1,301
 2021-02-20,Idaho,0,145
+2021-02-21,Idaho,0,0
 2020-01-24,Illinois,0,1
 2020-01-25,Illinois,0,0
 2020-01-26,Illinois,0,0
@@ -5370,6 +5384,7 @@ date,state,deaths,cases
 2021-02-18,Illinois,73,1940
 2021-02-19,Illinois,71,2210
 2021-02-20,Illinois,58,1884
+2021-02-21,Illinois,40,1520
 2020-03-06,Indiana,0,1
 2020-03-07,Indiana,0,0
 2020-03-08,Indiana,0,1
@@ -5722,6 +5737,7 @@ date,state,deaths,cases
 2021-02-18,Indiana,31,760
 2021-02-19,Indiana,44,1037
 2021-02-20,Indiana,11,1415
+2021-02-21,Indiana,36,882
 2020-03-08,Iowa,0,3
 2020-03-09,Iowa,0,5
 2020-03-10,Iowa,0,5
@@ -6072,6 +6088,7 @@ date,state,deaths,cases
 2021-02-18,Iowa,15,596
 2021-02-19,Iowa,15,245
 2021-02-20,Iowa,0,478
+2021-02-21,Iowa,0,415
 2020-03-07,Kansas,0,1
 2020-03-08,Kansas,0,0
 2020-03-09,Kansas,0,0
@@ -6423,6 +6440,7 @@ date,state,deaths,cases
 2021-02-18,Kansas,0,94
 2021-02-19,Kansas,93,1907
 2021-02-20,Kansas,0,141
+2021-02-21,Kansas,0,0
 2020-03-06,Kentucky,0,1
 2020-03-07,Kentucky,0,0
 2020-03-08,Kentucky,0,3
@@ -6775,6 +6793,7 @@ date,state,deaths,cases
 2021-02-18,Kentucky,28,1034
 2021-02-19,Kentucky,23,1865
 2021-02-20,Kentucky,23,1346
+2021-02-21,Kentucky,19,941
 2020-03-09,Louisiana,0,1
 2020-03-10,Louisiana,0,5
 2020-03-11,Louisiana,0,7
@@ -7124,6 +7143,7 @@ date,state,deaths,cases
 2021-02-18,Louisiana,15,828
 2021-02-19,Louisiana,34,441
 2021-02-20,Louisiana,0,0
+2021-02-21,Louisiana,26,1889
 2020-03-12,Maine,0,1
 2020-03-13,Maine,0,1
 2020-03-14,Maine,0,1
@@ -7470,6 +7490,7 @@ date,state,deaths,cases
 2021-02-18,Maine,1,218
 2021-02-19,Maine,1,134
 2021-02-20,Maine,2,143
+2021-02-21,Maine,0,130
 2020-03-05,Maryland,0,3
 2020-03-06,Maryland,0,0
 2020-03-07,Maryland,0,0
@@ -7823,6 +7844,7 @@ date,state,deaths,cases
 2021-02-18,Maryland,31,987
 2021-02-19,Maryland,16,1008
 2021-02-20,Maryland,20,763
+2021-02-21,Maryland,18,618
 2020-02-01,Massachusetts,0,1
 2020-02-02,Massachusetts,0,0
 2020-02-03,Massachusetts,0,0
@@ -8209,6 +8231,7 @@ date,state,deaths,cases
 2021-02-18,Massachusetts,63,2040
 2021-02-19,Massachusetts,40,1818
 2021-02-20,Massachusetts,53,1970
+2021-02-21,Massachusetts,47,1520
 2020-03-10,Michigan,0,2
 2020-03-11,Michigan,0,0
 2020-03-12,Michigan,0,10
@@ -8557,6 +8580,7 @@ date,state,deaths,cases
 2021-02-18,Michigan,92,1204
 2021-02-19,Michigan,22,1417
 2021-02-20,Michigan,67,818
+2021-02-21,Michigan,0,10
 2020-03-06,Minnesota,0,1
 2020-03-07,Minnesota,0,0
 2020-03-08,Minnesota,0,1
@@ -8909,6 +8933,7 @@ date,state,deaths,cases
 2021-02-18,Minnesota,14,913
 2021-02-19,Minnesota,8,995
 2021-02-20,Minnesota,11,870
+2021-02-21,Minnesota,9,879
 2020-03-11,Mississippi,0,1
 2020-03-12,Mississippi,0,0
 2020-03-13,Mississippi,0,5
@@ -9256,6 +9281,7 @@ date,state,deaths,cases
 2021-02-18,Mississippi,7,134
 2021-02-19,Mississippi,3,360
 2021-02-20,Mississippi,19,350
+2021-02-21,Mississippi,0,390
 2020-03-07,Missouri,0,1
 2020-03-08,Missouri,0,0
 2020-03-09,Missouri,0,0
@@ -9607,6 +9633,7 @@ date,state,deaths,cases
 2021-02-18,Missouri,158,801
 2021-02-19,Missouri,53,766
 2021-02-20,Missouri,11,481
+2021-02-21,Missouri,0,304
 2020-03-13,Montana,0,4
 2020-03-14,Montana,0,2
 2020-03-15,Montana,0,0
@@ -9952,6 +9979,7 @@ date,state,deaths,cases
 2021-02-18,Montana,3,216
 2021-02-19,Montana,2,254
 2021-02-20,Montana,2,216
+2021-02-21,Montana,1,98
 2020-02-17,Nebraska,0,10
 2020-02-18,Nebraska,0,0
 2020-02-19,Nebraska,0,0
@@ -10322,6 +10350,7 @@ date,state,deaths,cases
 2021-02-18,Nebraska,5,266
 2021-02-19,Nebraska,16,468
 2021-02-20,Nebraska,2,213
+2021-02-21,Nebraska,0,200
 2020-03-05,Nevada,0,2
 2020-03-06,Nevada,0,0
 2020-03-07,Nevada,0,0
@@ -10675,6 +10704,7 @@ date,state,deaths,cases
 2021-02-18,Nevada,31,497
 2021-02-19,Nevada,31,437
 2021-02-20,Nevada,32,334
+2021-02-21,Nevada,2,280
 2020-03-02,New Hampshire,0,1
 2020-03-03,New Hampshire,0,1
 2020-03-04,New Hampshire,0,0
@@ -11031,6 +11061,7 @@ date,state,deaths,cases
 2021-02-18,New Hampshire,2,434
 2021-02-19,New Hampshire,2,368
 2021-02-20,New Hampshire,1,394
+2021-02-21,New Hampshire,1,252
 2020-03-04,New Jersey,0,1
 2020-03-05,New Jersey,0,1
 2020-03-06,New Jersey,0,2
@@ -11385,6 +11416,7 @@ date,state,deaths,cases
 2021-02-18,New Jersey,132,3276
 2021-02-19,New Jersey,63,3046
 2021-02-20,New Jersey,50,2878
+2021-02-21,New Jersey,24,2031
 2020-03-11,New Mexico,0,4
 2020-03-12,New Mexico,0,2
 2020-03-13,New Mexico,0,4
@@ -11732,6 +11764,7 @@ date,state,deaths,cases
 2021-02-18,New Mexico,18,407
 2021-02-19,New Mexico,19,311
 2021-02-20,New Mexico,11,425
+2021-02-21,New Mexico,14,314
 2020-03-01,New York,0,1
 2020-03-02,New York,0,0
 2020-03-03,New York,0,1
@@ -12089,6 +12122,7 @@ date,state,deaths,cases
 2021-02-18,New York,150,9582
 2021-02-19,New York,162,8573
 2021-02-20,New York,114,8238
+2021-02-21,New York,113,6237
 2020-03-03,North Carolina,0,1
 2020-03-04,North Carolina,0,0
 2020-03-05,North Carolina,0,0
@@ -12444,6 +12478,7 @@ date,state,deaths,cases
 2021-02-18,North Carolina,92,4041
 2021-02-19,North Carolina,59,3234
 2021-02-20,North Carolina,67,3189
+2021-02-21,North Carolina,27,2080
 2020-03-11,North Dakota,0,1
 2020-03-12,North Dakota,0,0
 2020-03-13,North Dakota,0,0
@@ -12791,6 +12826,7 @@ date,state,deaths,cases
 2021-02-18,North Dakota,4,133
 2021-02-19,North Dakota,0,119
 2021-02-20,North Dakota,2,75
+2021-02-21,North Dakota,1,49
 2020-03-28,Northern Mariana Islands,0,2
 2020-03-29,Northern Mariana Islands,0,0
 2020-03-30,Northern Mariana Islands,0,0
@@ -13121,6 +13157,7 @@ date,state,deaths,cases
 2021-02-18,Northern Mariana Islands,0,0
 2021-02-19,Northern Mariana Islands,0,0
 2021-02-20,Northern Mariana Islands,0,0
+2021-02-21,Northern Mariana Islands,0,8
 2020-03-09,Ohio,0,3
 2020-03-10,Ohio,0,0
 2020-03-11,Ohio,0,1
@@ -13470,6 +13507,7 @@ date,state,deaths,cases
 2021-02-18,Ohio,98,2282
 2021-02-19,Ohio,82,2306
 2021-02-20,Ohio,56,2611
+2021-02-21,Ohio,67,1461
 2020-03-06,Oklahoma,0,1
 2020-03-07,Oklahoma,0,0
 2020-03-08,Oklahoma,0,0
@@ -13822,6 +13860,7 @@ date,state,deaths,cases
 2021-02-18,Oklahoma,23,618
 2021-02-19,Oklahoma,20,869
 2021-02-20,Oklahoma,23,973
+2021-02-21,Oklahoma,26,1036
 2020-02-28,Oregon,0,1
 2020-02-29,Oregon,0,0
 2020-03-01,Oregon,0,1
@@ -14181,6 +14220,7 @@ date,state,deaths,cases
 2021-02-18,Oregon,6,456
 2021-02-19,Oregon,0,477
 2021-02-20,Oregon,4,521
+2021-02-21,Oregon,0,107
 2020-03-06,Pennsylvania,0,2
 2020-03-07,Pennsylvania,0,2
 2020-03-08,Pennsylvania,0,2
@@ -14533,6 +14573,7 @@ date,state,deaths,cases
 2021-02-18,Pennsylvania,92,3297
 2021-02-19,Pennsylvania,77,2792
 2021-02-20,Pennsylvania,86,2553
+2021-02-21,Pennsylvania,25,1796
 2020-03-13,Puerto Rico,0,3
 2020-03-14,Puerto Rico,0,1
 2020-03-15,Puerto Rico,0,1
@@ -14878,6 +14919,7 @@ date,state,deaths,cases
 2021-02-18,Puerto Rico,10,78
 2021-02-19,Puerto Rico,7,118
 2021-02-20,Puerto Rico,10,211
+2021-02-21,Puerto Rico,22,249
 2020-03-01,Rhode Island,0,2
 2020-03-02,Rhode Island,0,0
 2020-03-03,Rhode Island,0,0
@@ -15235,6 +15277,7 @@ date,state,deaths,cases
 2021-02-18,Rhode Island,15,419
 2021-02-19,Rhode Island,9,286
 2021-02-20,Rhode Island,0,0
+2021-02-21,Rhode Island,0,0
 2020-03-06,South Carolina,0,2
 2020-03-07,South Carolina,0,0
 2020-03-08,South Carolina,0,4
@@ -15587,6 +15630,7 @@ date,state,deaths,cases
 2021-02-18,South Carolina,38,2675
 2021-02-19,South Carolina,58,2893
 2021-02-20,South Carolina,43,3340
+2021-02-21,South Carolina,68,2872
 2020-03-10,South Dakota,1,5
 2020-03-11,South Dakota,0,3
 2020-03-12,South Dakota,0,0
@@ -15935,6 +15979,7 @@ date,state,deaths,cases
 2021-02-18,South Dakota,3,186
 2021-02-19,South Dakota,6,147
 2021-02-20,South Dakota,6,147
+2021-02-21,South Dakota,4,139
 2020-03-05,Tennessee,0,1
 2020-03-06,Tennessee,0,0
 2020-03-07,Tennessee,0,0
@@ -16288,6 +16333,7 @@ date,state,deaths,cases
 2021-02-18,Tennessee,72,1090
 2021-02-19,Tennessee,7,1305
 2021-02-20,Tennessee,51,1116
+2021-02-21,Tennessee,18,1035
 2020-02-12,Texas,0,1
 2020-02-13,Texas,0,1
 2020-02-14,Texas,0,0
@@ -16663,6 +16709,7 @@ date,state,deaths,cases
 2021-02-18,Texas,114,2387
 2021-02-19,Texas,236,5945
 2021-02-20,Texas,202,5532
+2021-02-21,Texas,119,6407
 2020-02-25,Utah,0,1
 2020-02-26,Utah,0,0
 2020-02-27,Utah,0,0
@@ -17025,6 +17072,7 @@ date,state,deaths,cases
 2021-02-18,Utah,7,1151
 2021-02-19,Utah,21,857
 2021-02-20,Utah,8,778
+2021-02-21,Utah,10,701
 2020-03-07,Vermont,0,1
 2020-03-08,Vermont,0,0
 2020-03-09,Vermont,0,0
@@ -17376,6 +17424,7 @@ date,state,deaths,cases
 2021-02-18,Vermont,2,153
 2021-02-19,Vermont,0,102
 2021-02-20,Vermont,3,108
+2021-02-21,Vermont,1,134
 2020-03-07,Virginia,0,1
 2020-03-08,Virginia,0,1
 2020-03-09,Virginia,0,3
@@ -17727,6 +17776,7 @@ date,state,deaths,cases
 2021-02-18,Virginia,15,2304
 2021-02-19,Virginia,8,2034
 2021-02-20,Virginia,99,1882
+2021-02-21,Virginia,134,2303
 2020-03-14,Virgin Islands,0,1
 2020-03-15,Virgin Islands,0,0
 2020-03-16,Virgin Islands,0,1
@@ -18071,6 +18121,7 @@ date,state,deaths,cases
 2021-02-18,Virgin Islands,0,13
 2021-02-19,Virgin Islands,0,17
 2021-02-20,Virgin Islands,0,0
+2021-02-21,Virgin Islands,0,0
 2020-01-21,Washington,0,1
 2020-01-22,Washington,0,0
 2020-01-23,Washington,0,0
@@ -18468,6 +18519,7 @@ date,state,deaths,cases
 2021-02-18,Washington,44,1054
 2021-02-19,Washington,18,846
 2021-02-20,Washington,0,635
+2021-02-21,Washington,0,126
 2020-03-17,West Virginia,0,1
 2020-03-18,West Virginia,0,1
 2020-03-19,West Virginia,0,3
@@ -18809,6 +18861,7 @@ date,state,deaths,cases
 2021-02-18,West Virginia,11,355
 2021-02-19,West Virginia,12,295
 2021-02-20,West Virginia,6,309
+2021-02-21,West Virginia,7,252
 2020-02-05,Wisconsin,0,1
 2020-02-06,Wisconsin,0,0
 2020-02-07,Wisconsin,0,0
@@ -19191,6 +19244,7 @@ date,state,deaths,cases
 2021-02-18,Wisconsin,17,864
 2021-02-19,Wisconsin,36,918
 2021-02-20,Wisconsin,19,815
+2021-02-21,Wisconsin,0,451
 2020-03-11,Wyoming,0,1
 2020-03-12,Wyoming,0,0
 2020-03-13,Wyoming,0,1
@@ -19538,6 +19592,7 @@ date,state,deaths,cases
 2021-02-18,Wyoming,0,81
 2021-02-19,Wyoming,0,152
 2021-02-20,Wyoming,0,0
+2021-02-21,Wyoming,0,112
 2020-01-21,Alabama,0,0
 2020-01-22,Alabama,0,0
 2020-01-23,Alabama,0,0
@@ -21712,7 +21767,6 @@ date,state,deaths,cases
 2020-03-10,Virgin Islands,0,0
 2020-03-11,Virgin Islands,0,0
 2020-03-12,Virgin Islands,0,0
-2020-03-02,Wyoming,0,0
 2020-03-13,Virgin Islands,0,0
 2020-01-21,West Virginia,0,0
 2020-01-22,West Virginia,0,0
@@ -21826,6 +21880,7 @@ date,state,deaths,cases
 2020-02-28,Wyoming,0,0
 2020-02-29,Wyoming,0,0
 2020-03-01,Wyoming,0,0
+2020-03-02,Wyoming,0,0
 2020-03-03,Wyoming,0,0
 2020-03-04,Wyoming,0,0
 2020-03-05,Wyoming,0,0
